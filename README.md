@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋Hi there,I'm Vaneet!
 I enjoy building web applications, solving problems through code, and learning something new with every project. Currently open to Full Stack and Backend Developer opportunities.<br><br><br>💼 Open to collaboration and new opportunities.<br><br>🌱 I'm currently learning Backend Development and improving my Full Stack skills.<br><br>💬 About : JavaScript, Node.js, Express.js, MySQL and more.<br><br>📫 Reach me at: your : vaneetpathania01@gmail.com<br><br>⚡ Fun fact: I love exploring new tech and solving challenging problem. 
 
 
